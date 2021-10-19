@@ -2,7 +2,7 @@
 <p align="center"> 
  New Visitors
    <br><br>
-   <img alingn="center" src="https://profile-counter.glitch.me/pedromecf/count.svg"/> 
+   <img alingn="center" src="https://profile-counter.glitch.me/pedroeduardobibiano/count.svg"/> 
  
    ********************
  </p>
@@ -10,12 +10,12 @@
 <div align="center">
  <p align="center">📍 São Paulo - SP</p>
  <p>🎯 Studying Computer Science</p>
- <p>💻 Fullstack Java Developer at Stefanini Group</p><br>
+ <p>💻 ReactJS Developer</p><br>
 </div>
  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromecf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromecf&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroeduardobibianof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeduardobibiano&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div align="center">
@@ -29,8 +29,6 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <br><br><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-    <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <br><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=gi">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -49,7 +47,7 @@
 </div>
 
 <p align="center">
-    <a href="https://br.linkedin.com/in/pedro-guilherme-maia-colombano-a43b7a200">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
+    <a href="https://www.linkedin.com/in/pedro-eduardo-bibiano/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-eduardo-bibiano/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
     </a>
 </p>
