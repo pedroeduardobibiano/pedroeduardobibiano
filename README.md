@@ -28,9 +28,15 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <br><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=gi">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <br><br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
+</p>
+<br><div align="center">
+  <h3 align="center">my portfolio</h3> 
+</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/pedro-eduardo-bibiano/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-eduardo-bibiano/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
+    </a>
 </p>
 
 <br><div align="center">
