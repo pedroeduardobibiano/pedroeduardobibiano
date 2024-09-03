@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <br><br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-<br><div align="center">
+<div align="center">
   <h3 align="center">my portfolio</h3> 
 </div>
 <p align="center">
