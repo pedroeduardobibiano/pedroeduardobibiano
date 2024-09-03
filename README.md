@@ -35,7 +35,7 @@
 </div>
 <p align="center">
     <a href="https://portfolio-pedrobibiano.netlify.app/">
-        <img src="https://portfolio-pedrobibiano.netlify.app/">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=black">
     </a>
 </p>
 
