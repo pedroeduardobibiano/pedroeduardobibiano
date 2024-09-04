@@ -1,5 +1,14 @@
 ------------
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+###
+
+
+<div align="center">
+ <p align="center">📍 São Paulo - SP</p>
+ <p>🎯 Studying Computer Science</p>
+ <p>💻 JAVA Developer</p><br>
+</div>
+
+###
 
 ###
 
@@ -40,16 +49,7 @@
 
   ---------------------------------
 
-###
 
-
-<div align="center">
- <p align="center">📍 São Paulo - SP</p>
- <p>🎯 Studying Computer Science</p>
- <p>💻 JAVA Developer</p><br>
-</div>
-
-###
  
 ## My Stats
 
