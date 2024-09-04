@@ -4,6 +4,12 @@
  <p>💻 JAVA Developer</p><br>
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pedroeduardobibiano/count.svg?"  />
+</div>
+
+###
+
 ###
 
 ###
