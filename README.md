@@ -49,7 +49,7 @@
 
 ###
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroeduardobibiano&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroeduardobibiano&radius=16&theme=merko&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
