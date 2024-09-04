@@ -63,43 +63,5 @@
 
 ###
 
-<div align="center">
-  <br><h3 align="center">🛠️ Languages and Tools 🛠️</h3>
-</div>
-
-<p align="center">    
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">
-    <br><br><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=gi">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <br><br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
-<div align="center">
-  <h3 align="center">my portfolio</h3> 
-</div>
-<p align="center">
-    <a href="https://portfolio-pedrobibiano.netlify.app/">
-        <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge">
-    </a>
-</p>
-
-<div align="center">
-  <h3 align="center">Connect with me</h3> 
-</div>
-<p align="center">
-    <a href="https://www.linkedin.com/in/pedro-eduardo-bibiano/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedro-eduardo-bibiano/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
-    </a>
-</p>
-
-
-
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
 
 
