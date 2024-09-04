@@ -42,14 +42,6 @@
 
 ###
 
-###
-<p align="center"> 
- New Visitors
-   <br><br>
-   <img alingn="center" src="https://profile-counter.glitch.me/pedroeduardobibiano/count.svg"/> 
- 
-   ********************
- </p>
 
 <div align="center">
  <p align="center">📍 São Paulo - SP</p>
