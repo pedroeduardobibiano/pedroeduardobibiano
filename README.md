@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br></br>
+
 ###
 
 <img align="right" height="180" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  />
