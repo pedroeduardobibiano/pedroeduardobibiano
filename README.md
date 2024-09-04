@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Portifolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
        <img src="https://img.shields.io/static/v1?message=Postman&logo=Postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-       <img src="https://img.shields.io/static/v1?message=Git&logo=Git&label=&color=  F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+       <img src="https://img.shields.io/static/v1?message=Git&logo=Git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 
 
