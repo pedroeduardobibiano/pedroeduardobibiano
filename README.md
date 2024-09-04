@@ -15,11 +15,6 @@
 
 
 
-###
-
-<img align="right" height="180" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  />
-
-###
 
 <div align="center">
   <h3 align="left">🛠️ Languages and Tools 🛠️</h3>
