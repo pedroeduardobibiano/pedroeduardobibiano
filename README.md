@@ -43,6 +43,8 @@
   </a>
   <a href="https://portfolio-pedrobibiano.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portif%C3%B3lio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <a href="https://portfolio-pedrobibiano.netlify.app/" target="_blank">
+       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   </a>
 
 <br></br>
