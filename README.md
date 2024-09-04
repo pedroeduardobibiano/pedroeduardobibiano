@@ -1,5 +1,5 @@
 <div align="center">
- <p align="center">📍 São Paulo - SP</p>
+ <p>📍 São Paulo - SP</p>
  <p>🎯 Studying Computer Science</p>
  <p>💻 JAVA Developer</p><br>
 </div>
