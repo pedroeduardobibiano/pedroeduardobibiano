@@ -1,6 +1,8 @@
 <div align="center">
- <h1>💻 JAVA Developer</h1>
+ <h1>💻 JAVA Developer
  <img src="https://profile-counter.glitch.me/pedroeduardobibiano/count.svg?"/>
+ </h1>
+ 
 </div>
 
 
