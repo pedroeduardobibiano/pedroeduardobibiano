@@ -66,15 +66,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroeduardobibiano&radius=16&theme=merko&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pedro/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedro/pedro/output/snake.svg" alt="Snake animation" />
 
 ###
 
