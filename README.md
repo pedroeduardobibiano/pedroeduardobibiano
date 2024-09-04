@@ -1,7 +1,7 @@
 <div align="center">
- <p>📍 São Paulo - SP</p>
- <p>🎯 Studying Computer Science</p>
- <p>💻 JAVA Developer</p><br>
+ <h3>📍 São Paulo - SP</h3>
+ <h3>🎯 Studying Computer Science</h3>
+ <h3>💻 JAVA Developer</h3><br>
 </div>
 
 <div align="center">
