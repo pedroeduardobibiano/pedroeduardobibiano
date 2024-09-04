@@ -1,7 +1,3 @@
-------------
-###
-
-
 <div align="center">
  <p align="center">📍 São Paulo - SP</p>
  <p>🎯 Studying Computer Science</p>
@@ -46,9 +42,6 @@
   <a href="https://portfolio-pedrobibiano.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portif%C3%B3lio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-
-  ---------------------------------
-
 
  
 ## My Stats
