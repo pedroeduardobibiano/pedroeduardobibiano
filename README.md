@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- <h2> align="center">Viwer</h2>
+ <h2 align="center">Viwer</h2>
 </div>
 
 <div align="center">
