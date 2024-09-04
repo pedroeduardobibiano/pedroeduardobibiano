@@ -1,4 +1,6 @@
-<h2 align="center">Welcome!</h2>
+## My Stats
+
+###
 <p align="center"> 
  New Visitors
    <br><br>
@@ -12,6 +14,8 @@
  <p>🎯 Studying Computer Science</p>
  <p>💻 JAVA Developer</p><br>
 </div>
+
+###
  
 ## My Stats
 
